@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../src/styles/main.css"],
+  "sourcesContent": ["* {\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}\n\nbody .transition {\n  display: block;\n}\n\n.w-editor .transition {\n  display: none;\n}\n\n.no-scroll-transition {\n  position: relative;\n}\n"],
+  "mappings": ";AAAA;AACE,0BAAwB;AACxB,2BAAyB;AAC3B;AAEA,KAAK,CAAC;AACJ,WAAS;AACX;AAEA,CAAC,SAAS,CAJJ;AAKJ,WAAS;AACX;AAEA,CAAC;AACC,YAAU;AACZ;",
+  "names": []
+}
