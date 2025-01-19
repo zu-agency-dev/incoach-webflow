@@ -1,0 +1,16 @@
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body .transition {
+  display: block;
+}
+
+.w-editor .transition {
+  display: none;
+}
+
+.no-scroll-transition {
+  position: relative;
+}
